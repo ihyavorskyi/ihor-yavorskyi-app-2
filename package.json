@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --prod --base-href 'https://ihyavorskyi.github.io/angular-labs/'",
+    "build": "ng build --prod --base-href https://ihyavorskyi.github.io/ihor-yavorskyi-app-2/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
